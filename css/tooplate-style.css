@@ -568,3 +568,9 @@ b, strong {
     vertical-align: top;
   }
 }
+
+div.item{
+	width:100px;
+	height:100px;
+}
+	
