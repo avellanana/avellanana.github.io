@@ -568,12 +568,4 @@ b, strong {
     vertical-align: top;
   }
 }
-
-div.item{
-	width:1000px;
-	height:1000px;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
 	
